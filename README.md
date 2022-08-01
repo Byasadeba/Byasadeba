@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Byasadeba Behera</h1>
 <h3 align="center">A passionate Full Stack Webdeveloper from India</h3>
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Byasadeba&label=Profile%20views&color=0e75b6&style=flat" alt="Byasadeba" /> </p>
 
