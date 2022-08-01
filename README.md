@@ -1,6 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="center">Hi 👋, I'm Byasadeba Behera</h1>
 <h3 align="center">A passionate Full Stack Webdeveloper from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Byasadeba&label=Profile%20views&color=0e75b6&style=flat" alt="Byasadeba" /> </p>
